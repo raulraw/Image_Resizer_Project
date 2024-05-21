@@ -26,9 +26,9 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 
 | Sequential  | MPI | Threads | Sequential - OpenCv2 | MPI - OpenCv2 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  0.00495 | 3.157  |  0.0227 | 0.58  | 3.565 |
-|  0.147007 |  2.522 |  0.00196  |  0.78 | 5.765 |
-|  0.234 | 2.434 | 0.523 | 0.324 | 7.756 |
+|  0.00495s | 3.157s  |  0.0227s | 0.58s  | 3.565s |
+|  0.147007s |  2.522s |  0.00196s  |  0.78s | 5.765s |
+|  0.234s | 2.434s | 0.523s | 0.324s | 7.756s |
 
 
 
