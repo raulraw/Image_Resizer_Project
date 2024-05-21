@@ -7,6 +7,7 @@
 * Paralelizare folosind MPI
 * Paralelizare folosind MPI dar si libraria OpenCv2
 * Paralelizare folosind Threads
+
 Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei OpenCv2, sunt afisate dimensiunile originale ale imaginii, apoi se specifica noile dimensiuni dorite. Imaginea este redimensionata in cadrul functiei de resize, in cazul paralelizarii, poza este impartita pe mai multe procese/fire de executie, iar pe fiecare bucatica de poza trimisa se efectueaza functia de resize. Dupa ce functia a fost apelata, toate bucatile se trimit catre procesul/firul de executie principal, unde poza urmeaza sa fie asamblata. La finalul executiei este afisat timpul de executie pentru fiecare metoda in parte.
 
 ## **_Dispozitivul folosit in cadrul proiectului_** / **_Laptop Lenovo Legion 5_**
