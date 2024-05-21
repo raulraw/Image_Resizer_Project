@@ -23,7 +23,8 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 ![output - MPI](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/b564ded2-4f63-49c2-9995-6d0179a9d27e)
 
 # **_Date experimentale_**
-| First Header  | Second Header || First Header  | Second Header |
+
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
