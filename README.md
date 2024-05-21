@@ -18,3 +18,5 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 
  
 
+![input - Threads](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/7228ec98-0c71-4927-9471-ab26b3f74470)
+![output - Threads](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/ec9249b6-b393-4aa5-869b-10b95513c324)
