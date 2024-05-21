@@ -24,8 +24,8 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 
 # **_Date experimentale_**
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| Sequential  | MPI | Threads | Sequential - OpenCv2 | MPI - OpenCv2 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
