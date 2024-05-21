@@ -8,8 +8,8 @@
 * Paralelizare folosind MPI dar si libraria OpenCv2
 * Paralelizare folosind Threads
 
-  ## **_Masina pe care am rulat_**
-  ### **_Laptop Lenovo Legion 5_**
+## **_Masina pe care am rulat_** / ### **_Laptop Lenovo Legion 5_**
+
 
  
 
