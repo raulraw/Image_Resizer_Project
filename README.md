@@ -26,6 +26,7 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 
 | Sequential  | MPI | Threads | Sequential - OpenCv2 | MPI - OpenCv2 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  0.00495 |   |   |   |
+|   |   |   |   |
 
+![image](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/f45e370d-d354-4c2d-b356-77d503f9bcb3)
