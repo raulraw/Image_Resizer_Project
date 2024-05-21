@@ -21,3 +21,10 @@ Algoritmul incepe prin citirea imaginii de intrare prin intermediul librariei Op
 ![output - Threads](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/ec9249b6-b393-4aa5-869b-10b95513c324)
 ![input - MPI](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/68a06a21-d904-444c-8dbe-3e623c55eebe)
 ![output - MPI](https://github.com/raulraw/Image_Resizer_Project/assets/119895675/b564ded2-4f63-49c2-9995-6d0179a9d27e)
+
+# **_Date experimentale_**
+| First Header  | Second Header || First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
